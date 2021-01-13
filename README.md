@@ -4,7 +4,7 @@ Lyrics Finder App using ReactJS, Context, Axios HTTP Client with MusixMatch API.
 
 ## Preview
 
-Click [here](https://somsubhra1.github.io/Lyrics-Finder-App/) for preview.
+Click [here](https://arijit1000.github.io/Lyrics-Finder-App/.) for preview.
 
 ## Available Scripts
 
