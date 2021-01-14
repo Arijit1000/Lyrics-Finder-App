@@ -2,10 +2,6 @@
 
 Lyrics Finder App using ReactJS, Context, Axios HTTP Client with MusixMatch API. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Preview
-
-Click [here](https://arijit1000.github.io/Lyrics-Finder-App/) for preview.
-
 ## Available Scripts
 
 In the project directory, you can run:
